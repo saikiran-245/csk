@@ -1,6 +1,6 @@
 #first 
 
-expense_list = [2200, 2350, 2600, 2130, 2190]
+# expense_list = [2200, 2350, 2600, 2130, 2190]
 
 # val = expense_list[1]-expense_list[0]
 
@@ -24,10 +24,11 @@ expense_list = [2200, 2350, 2600, 2130, 2190]
 # expense_list[3] = april_exp - refund
 
 # print(expense_list)
+# =========================================================
 
 #2
 
-heros=['spider man','thor','hulk','iron man','captain america']
+# heros=['spider man','thor','hulk','iron man','captain america']
 
 # # print(len(heros))
 
@@ -44,13 +45,15 @@ heros=['spider man','thor','hulk','iron man','captain america']
 
 # # print(heros)
 
-heros[1:3] = ['doctor strange'] 
+# heros[1:3] = ['doctor strange'] 
 
-print(heros)
+# print(heros)
 
 # heros.sort()
 
 # print(heros)
+
+# =========================================================
 
 #3
 
